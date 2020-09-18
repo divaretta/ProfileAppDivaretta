@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="hi_i_go_by_the_name_divaretta_kiesa_sumartha_and_they_usually_call_me_diva_for_short_i_was_born_in_semarang_but_i_spend_my_teenage_years_in_cepu_and_bojonegoro_here_s_to_know_myself_more">Hi, I go by the name Divaretta Kiesa Sumartha, and they usually call me Diva for short. I was born in Semarang but I spend my teenage years in Cepu and Bojonegoro! Here\'s to know myself more:</string>
+    <string name="favourite_food_rendang">Favourite Food : Rendang</string>
+    <string name="welcome_to_my_profile">WELCOME TO MY PROFILE!</string>
+    <string name="introducing_me">INTRODUCING ME!</string>
+    <string name="place_and_date_of_birth_semarang_november_the_14th_of_2001">Place and Date of Birth: Semarang, November the 14th of 2001</string>
+    <string name="hobby_drawing">Hobby : Drawing</string>
+    <string name="favourite_drink_milk">Favourite Drink : Milk</string>
+    <string name="for_further_informations_kindly_hit_me_up_on_divaretta_on_instagram">For further informations, kindly hit me up on @divaretta on Instagram!</string>
+    <string name="for_further_informations_kindly_hit_me_up_on_divaretta_n_on_instagram">For further informations, kindly hit me up on @divaretta \n on Instagram!</string>
+    <string name="that_s_all_n_it_s_very_nice_to_meet_you">that\'s all, \n it\'s very nice to meet you!</string>
+    <string name="for_further_informations_kindly_hit_divaretta_up_on_instagram">For further informations, kindly hit @divaretta up on Instagram!</string>
+    <string name="click_to_start">Click to start!</string>
+</resources>

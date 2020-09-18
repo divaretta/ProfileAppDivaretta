@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aa"
+    android:orientation="vertical"
+    tools:context=".ProfileFace">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginEnd="5sp"
+        android:src="@drawable/ab"
+        android:layout_gravity="center_horizontal"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:fontFamily="@font/arco_for_orx"
+        android:text="@string/introducing_me"
+        android:textColor="#78A9BC"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:layout_marginBottom="20sp"
+        android:fontFamily="@font/bub_bob"
+        android:text="@string/hi_i_go_by_the_name_divaretta_kiesa_sumartha_and_they_usually_call_me_diva_for_short_i_was_born_in_semarang_but_i_spend_my_teenage_years_in_cepu_and_bojonegoro_here_s_to_know_myself_more"
+        android:textAlignment="center"
+        android:textColor="#A8668A"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bub_bob"
+        android:text="@string/place_and_date_of_birth_semarang_november_the_14th_of_2001"
+        android:textAlignment="center"
+        android:layout_marginStart="15sp"
+        android:layout_marginEnd="10sp"
+        android:textColor="#A8668A"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bub_bob"
+        android:text="@string/hobby_drawing"
+        android:textAlignment="center"
+        android:textColor="#A8668A"
+        android:textSize="16sp"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="5sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bub_bob"
+        android:text="@string/favourite_food_rendang"
+        android:textAlignment="center"
+        android:textColor="#A8668A"
+        android:textSize="16sp"
+        android:layout_marginTop="5sp"
+        android:layout_marginStart="14sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bub_bob"
+        android:text="@string/favourite_drink_milk"
+        android:textAlignment="center"
+        android:textColor="#A8668A"
+        android:textSize="16sp"
+        android:layout_marginTop="5sp"
+        android:layout_marginStart="14sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bub_bob"
+        android:text="@string/for_further_informations_kindly_hit_divaretta_up_on_instagram"
+        android:textAlignment="center"
+        android:textColor="#A8668A"
+        android:textSize="15sp"
+        android:layout_marginTop="5sp"
+        android:layout_marginStart="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bakso_sapi"
+            android:textAlignment="center"
+            android:textColor="#E13C74"
+            android:textSize="20sp"
+            android:text="@string/that_s_all_n_it_s_very_nice_to_meet_you"
+            android:layout_marginTop="25sp"
+            android:layout_marginStart="65sp" />
+
+</LinearLayout>
